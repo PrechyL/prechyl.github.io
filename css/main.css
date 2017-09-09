@@ -1,0 +1,65 @@
+.container{
+    padding: 0px 20px;
+}
+body, div, p, span{
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+nav li{
+    list-style: none;
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+li{
+    list-style: none;
+}
+
+nav{
+    max-width: 400px;
+    margin:auto;
+    padding: 10px 0px;
+}
+
+.bgimage{
+    background-image: url(../img/background.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 70%;
+}
+
+.middler{
+    text-align: center;
+}
+
+.pp{
+    max-height: 70px;
+     padding:100px 0px;
+
+ }
+
+header h1{
+    font-size: 80px;
+    color: white;
+    margin: 0px;
+
+}
+
+header h3{
+    font-size: 20px;
+    color: goldenrod;
+    margin: 0px;
+
+}
+
+a{
+    text-decoration: none;
+}
